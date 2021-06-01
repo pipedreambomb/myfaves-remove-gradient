@@ -2,7 +2,7 @@
   "name": "MyFaves Remove Gradient",
   "action": {},
   "manifest_version": 3,
-  "version": "0.1",
+  "version": "1.0",
   "description": "Removes the gradients from myfav.es",
   "content_scripts": [
    {
